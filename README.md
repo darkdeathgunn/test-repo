@@ -1,2 +1,2 @@
-# test-repo
+# test
 1st test
